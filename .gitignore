@@ -1,0 +1,7 @@
+*.npz
+
+*.egg-info/
+fields/
+*.DS_Store
+__pycache__/
+.vscode/

@@ -10,3 +10,4 @@ A tool for anyalysing single particle trajectories
 
 The simulator uses jit compilation for speed. 
 
+# Usage

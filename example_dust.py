@@ -1,4 +1,4 @@
-import tespa
+import testparticle.tespa.tespa as tespa
 import numpy as np
 import matplotlib.pyplot as plt
 

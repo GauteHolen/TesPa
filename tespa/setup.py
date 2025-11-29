@@ -1,8 +1,11 @@
-from distutils.core import setup
+from setuptools import setup, find_packages
 setup(
-   name='TesPa',
+   name='tespa',
    version='0.1',
-   packages=['pipenv',],
+   packages=find_packages(),
    license='MIT',
-   long_description=open('README.txt').read(),
+   author='Gaute Holen',
+   author_email='gaute.ah@gmail.com',
+   long_description=open('README.md').read(),
+   url='https://github.com/GauteHolen/TesPa',
 )
